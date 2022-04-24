@@ -1,0 +1,29 @@
+body, html {
+    height: 100%;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  .bg-image {
+    background: url(../image/1.jpg);
+    margin: 0;
+    padding: 0;
+    background-size: 100%;
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+    
+height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+  /* Position text in the middle of the page/image */
+  .bg-text {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }

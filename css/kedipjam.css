@@ -1,0 +1,32 @@
+
+.anic {
+  -webkit-animation: fade-in 0.27s linear infinite alternate;
+  -moz-animation: fade-in 0.27s linear infinite alternate;
+  animation: fade-in 0.27s linear infinite alternate;
+  font-family:comic sans ms;
+  color:00fafe; 
+}
+@-moz-keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  65% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  65% {
+    opacity: 1;
+  }
+}
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  65% {
+    opacity: 1;
+  }
+}
