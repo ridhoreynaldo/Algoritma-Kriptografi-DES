@@ -12,6 +12,7 @@
 <html>
 
 <head>
+	<meta name="google-site-verification" content="7gRtK0ZUxX3v2npoDnH7DjOPeYb0aevH6UcELWbprg0" />
     <title>Cryptography File DES-ECB</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
